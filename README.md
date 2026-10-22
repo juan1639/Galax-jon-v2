@@ -82,3 +82,5 @@ Esto genera un `.tap` con cargador BASIC incluido, listo para abrir en cualquier
 - Programación: **J. Eguia** (Centro IMI, 2022)
 - Autor de la fuente de texto *Javier Vispe*
 - Gráficos creados con *SevenuP* (© Jaime Tejedor Gómez, "Metalbrain")
+
+Distribuido bajo la licencia MIT: consulta el fichero LICENSE
